@@ -1,0 +1,24 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "A simple nodejs application with express.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuffel/nodeapp.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Baseapp"
+  ],
+  "author": "kuffel <adam@kuffel.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuffel/nodeapp/issues"
+  },
+  "homepage": "https://github.com/kuffel/nodeapp#readme"
+}
