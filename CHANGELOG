@@ -1,0 +1,20 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/)
+and this project adheres to [Semantic Versioning](http://semver.org/).
+
+## [0.0.1] - 2017-01-01
+### Added
+- Created project and directories
+- Added README, Changelog, LICENSE and package.json
+- Added .gitignore
+- Added dev-dependencies
+- Added more express modules (favicons,cors,logging)
+- Added ejs template engine and some demo templates
+- Updated README.md
+- Added Gruntfile.js
+- Updated dependencies
+- Added routes and middleware folders and examples.
+- Updated README.md
