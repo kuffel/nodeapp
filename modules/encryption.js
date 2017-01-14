@@ -1,6 +1,6 @@
 
     var crypto = require('crypto');
-    var bcrypt = require('bcrypt');
+    var bcrypt = require('bcryptjs');
 
     // https://www.npmjs.com/package/bcrpyt#a-note-on-rounds
     const saltRounds = 10;
