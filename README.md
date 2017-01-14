@@ -1,5 +1,7 @@
 # Nodeapp
 
+[![Build Status](https://travis-ci.org/kuffel/nodeapp.svg?branch=master)](https://travis-ci.org/kuffel/nodeapp)
+
 Base application to start node.js backends with express.js
 
 ## Getting started
